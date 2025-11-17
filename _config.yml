@@ -26,7 +26,7 @@ author:
   avatar           : "pawin_picture.png"
   name             : "Pawin Taechoyotin"
   pronouns         : # example: "she/her"  
-  bio              : "Pawin is a PhD student in the Department of Computer Science at the University of Colorado Boulder. His research focus is on Science of Science. The main topic of his current research is automated scientific peer review, where LLMs are trained to analyze manuscripts and generate peer reviews. He is also interested in Multi-Modal Representation Learning of Scientific concepts or information, which is believed to be the foundation of information comprehension for Artificial Intelligence models. Recently, he has delved into the realm of research integrity, where he develops techniques to identify research integrity issues in publications"
+  bio              : "PhD Student in the Department of Computer Science"
   location         : "Boulder, CO, USA"
   employer         : "University of Colorado Boulder"
   uri              : # URL
