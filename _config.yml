@@ -41,21 +41,21 @@ author:
   orcid            : "https://orcid.org/0009-0002-9023-4435"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/scientific-contributions/Pawin-Taechoyotin-2293032641"
+  researchgate     : # "https://www.researchgate.net/scientific-contributions/Pawin-Taechoyotin-2293032641"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "khempawin"
+  github           : # "khempawin"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
-  facebook         : "pawin.taechoyotin"
+  facebook         : # "pawin.taechoyotin"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "pawin-taechoyotin"
+  linkedin         : # "pawin-taechoyotin"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,12 +71,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "PTaechoyotin" # Username for X / Twitter
+  twitter          : # "PTaechoyotin" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "pawintaechoyotin5090"
+  youtube          : # "pawintaechoyotin5090"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
